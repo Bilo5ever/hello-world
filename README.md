@@ -1,2 +1,3 @@
 # hello-world
-github crash course
+hub crash-check diff course
+this is some stuff about the github crash course
